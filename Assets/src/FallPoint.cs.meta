@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b27b324b6174a5429ee2970b07fbf3b
+timeCreated: 1513609811
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fallPoint: {fileID: 1859244367700072, guid: 9189cdcf0114fc94fa225641679b9ebc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
